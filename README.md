@@ -1,7 +1,7 @@
 ## 🚀 Impactful Projects
 
 ### 1. Deepfake Detection using XceptionNet
-**GitHub / Reference URL:** [Add your repo link here]
+**GitHub / Reference URL:** (https://github.com/pothinenisaimadhu/TELEGRAM_DETECTOR)
 
 **Description:**  
 Built a deep learning pipeline to detect **real vs. fake images** from the **Celeb-DF v2 dataset** using **PyTorch** and **XceptionNet**. The system classifies facial images as either genuine or AI-synthesized (deepfake), with training/validation workflows, model saving, and inference support.  
